@@ -2,26 +2,19 @@
 
 [Laravel](https://laravel.com)
 
-1. step
+1. Step: Install
 
-* Install [Composer](https://getcomposer.org/download/)
+* [Composer](https://getcomposer.org/download/)
+* [Nodejs](https://nodejs.org/en/)
+* [Xampp](https://www.apachefriends.org/de/index.html)
 
-* Install [Nodejs](https://nodejs.org/en/)
-
-2. step
-
-* Install [Xampp](https://www.apachefriends.org/de/index.html)
-
-3. step
-
-Use database tool 
-example:
+2. step: Use tool
+ 
+...Example database:
 ..* [HeidiSql](https://www.heidisql.com/)
 ..* [DBeaver](https://dbeaver.io/)
 
-4. Step 
-
-Use editor tool
+...Example editor:
 ..* [Eclipse](https://www.eclipse.org/pdt/)
 ..* [VSCode](https://code.visualstudio.com/)
 
