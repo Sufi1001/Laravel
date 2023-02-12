@@ -4,9 +4,9 @@
 
 1. Step: Install
 
-* [Composer](https://getcomposer.org/download/)
-* [Nodejs](https://nodejs.org/en/)
-* [Xampp](https://www.apachefriends.org/de/index.html)
+  - [Composer](https://getcomposer.org/download/)
+  - [Nodejs](https://nodejs.org/en/)
+  - [Xampp](https://www.apachefriends.org/de/index.html)
 
 2. step: Use tool
  
