@@ -22,3 +22,5 @@
 ```{r}
 composer create-project laravel/laravel myApp
 ```
+
+4. step: Play your Laravel 
