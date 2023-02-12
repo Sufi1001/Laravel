@@ -17,3 +17,8 @@
       - [Eclipse](https://www.eclipse.org/pdt/)
       - [VSCode](https://code.visualstudio.com/)
 
+3. step: Create Laravel Project in Powershell
+
+```{r}
+composer create-project laravel/laravel myApp
+```
