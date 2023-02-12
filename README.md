@@ -22,4 +22,5 @@
 ```{r}
 composer create-project laravel/laravel myApp
 ```
-    - This application is accesable in website
+
+This application is accesable in website
