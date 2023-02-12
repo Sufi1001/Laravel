@@ -10,11 +10,10 @@
 
 2. step: Use tool
  
-⋅⋅⋅Example database:
-⋅⋅⋅[HeidiSql](https://www.heidisql.com/)
-⋅⋅⋅[DBeaver](https://dbeaver.io/)
-
-⋅⋅⋅Example editor:
-⋅⋅⋅[Eclipse](https://www.eclipse.org/pdt/)
-⋅⋅⋅[VSCode](https://code.visualstudio.com/)
+  -Example database:
+   -[HeidiSql](https://www.heidisql.com/)
+   -[DBeaver](https://dbeaver.io/)
+  -Example editor:
+   -[Eclipse](https://www.eclipse.org/pdt/)
+   -[VSCode](https://code.visualstudio.com/)
 
